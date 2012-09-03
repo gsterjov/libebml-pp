@@ -1,0 +1,5 @@
+
+set (Ebml_INCLUDE_DIRS @CMAKE_INSTALL_PREFIX@/include)
+
+get_filename_component (_DIR "${CMAKE_CURRENT_LIST_FILE}" PATH)
+include (${_DIR}/EbmlTargets.cmake)

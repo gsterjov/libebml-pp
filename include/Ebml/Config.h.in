@@ -1,0 +1,2 @@
+
+#define SYSTEM_IS_BIG_ENDIAN @BIG_ENDIAN@
